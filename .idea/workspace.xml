@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fe116e3-50ca-465a-a422-3ceeaa3d1b4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scaffold-eth-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hardhat/contracts/Logic.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hardhat/contracts/NFTFounder.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hardhat/contracts/NFTMintPass.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hardhat/deploy/00_deploy_logic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hardhat/deploy/01_deploy_mint_pass.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hardhat/deploy/02_deploy_founder.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/pull_request_template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/lint.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/hardhat/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/hardhat/contracts/YourContract.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/hardhat/deploy/00_deploy_your_contract.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/hardhat/hardhat.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/hardhat/hardhat.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/hardhat/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/hardhat/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/nextjs/generated/deployedContracts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/nextjs/generated/deployedContracts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/nextjs/scaffold.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/nextjs/scaffold.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="5oot74jd" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MoveProjectSettingsService_1">
+    <option name="aptosPath" value="$PROJECT_DIR$/../../aptos/aptos" />
+  </component>
+  <component name="ProjectId" id="2Q60O2MhRSHR4hDPo0wKny3FMH1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bzw/workspace/react/scaffold-eth-2/packages/hardhat/deploy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/bzw/workspace/react/scaffold-eth-2/packages/hardhat/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/hardhat/deploy" />
+      <recent name="$PROJECT_DIR$/packages/hardhat/contracts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe116e3-50ca-465a-a422-3ceeaa3d1b4c" name="Changes" comment="" />
+      <created>1684658687931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684658687931</updated>
+      <workItem from="1684658690303" duration="14695000" />
+      <workItem from="1684906652604" duration="1141000" />
+      <workItem from="1684943468287" duration="10193000" />
+      <workItem from="1686038578622" duration="3094000" />
+      <workItem from="1686289726444" duration="1914000" />
+      <workItem from="1686543882853" duration="4385000" />
+      <workItem from="1686822869802" duration="44382000" />
+      <workItem from="1687662335417" duration="599000" />
+      <workItem from="1688024403026" duration="329000" />
+      <workItem from="1688024880818" duration="405000" />
+      <workItem from="1689272980517" duration="5860000" />
+      <workItem from="1689338304847" duration="7050000" />
+      <workItem from="1689871802704" duration="33000" />
+      <workItem from="1689871852604" duration="45398000" />
+      <workItem from="1692437390064" duration="2522000" />
+      <workItem from="1693369668439" duration="22084000" />
+      <workItem from="1694152822161" duration="33000" />
+      <workItem from="1694183338964" duration="30105000" />
+      <workItem from="1694507588096" duration="23000" />
+      <workItem from="1694761658158" duration="68000" />
+      <workItem from="1694761773146" duration="216000" />
+      <workItem from="1694767180303" duration="73000" />
+      <workItem from="1694863427623" duration="316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
